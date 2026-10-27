@@ -1,6 +1,5 @@
 ---
 name: brief
-description: name: product-brief-builder
 description: >-
   Превращает сырую продуктовую идею в обогащённый бриф через структурированный
   диалог в роли Senior UX Lead. Используй ВСЕГДА, когда пользователь хочет
